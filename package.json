@@ -1,0 +1,26 @@
+{
+  "name": "cellphone-website",
+  "version": "1.0.0",
+  "description": "Website for cellphones",
+  "main": "index.js",
+  "dependencies":{
+	"pug":"*",
+	"jquery":"*",
+	"node-sass":"*",
+	"node-materialize":"*",
+	"node-bootstrap":"*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furofo/cellphone-website.git"
+  },
+  "author": "Eric Weiss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/furofo/cellphone-website/issues"
+  },
+  "homepage": "https://github.com/furofo/cellphone-website#readme"
+}
